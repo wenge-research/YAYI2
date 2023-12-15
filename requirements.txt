@@ -1,0 +1,7 @@
+deepspeed==0.9.2
+numpy==1.23.5
+sentencepiece==0.1.97
+transformers==4.29.1
+xformers==0.0.20
+datasets==2.13.1
+tensorboard==2.13.0
