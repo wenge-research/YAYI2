@@ -364,3 +364,6 @@ If you are using the resource for your work, please cite our paper.
   year      = {2023}
 }
 ```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=wenge-research/YAYI2&type=Date)](https://star-history.com/#wenge-research/YAYI2&Date)
