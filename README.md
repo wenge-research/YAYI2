@@ -370,6 +370,8 @@ bash scripts/start_lora.sh
 
 * 压缩比越低通常表示分词器具有更高效率的性能。
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=wenge-research/YAYI2&type=Date)](https://star-history.com/#wenge-research/YAYI2&Date)
 
 ## Loss 曲线
 YAYI 2 模型的 loss 曲线见下图：
