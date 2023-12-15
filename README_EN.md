@@ -26,6 +26,7 @@ We opensource the pre-trained language model in this release, namely **YAYI2-30B
 |  Model  | Context Length |🤗 HF Model Name           |  Download Links  |
 | :--------- | :---------  | :---------               | :--------- |
 |  YAYI2-30B | 4096        | wenge-research/yayi2-30b| [download](https://huggingface.co/wenge-research/yayi2-30b)|
+| YAYI2-Chat-30B | 4096    | wenge-research/yayi2-chat-30b| Comming soon... |
 
 
 
