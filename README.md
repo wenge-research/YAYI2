@@ -46,7 +46,7 @@ YAYI 2 是中科闻歌研发的**新一代开源大语言模型**，包括 Base 
 
 | 数据集名称  | 大小  | 🤗 HF模型标识 | 下载地址   |
 |:----------|:----------:|:----------:|----------:|
-| YAYI2 Pretrain Data | 500G    | wenge-research/yayi2_pretrain_data| [数据集下载](https://huggingface.co/wenge-research/yayi2_pretrain_data)|
+| YAYI2 Pretrain Data | 500G    | wenge-research/yayi2_pretrain_data| [数据集下载](https://huggingface.co/datasets/wenge-research/yayi2_pretrain_data)|
 
 ## 模型地址
 
