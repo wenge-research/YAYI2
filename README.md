@@ -392,7 +392,8 @@ YAYI 2 模型的 loss 曲线见下图：
 @article{YAYI 2,
   author    = {Yin Luo, Qingchao Kong, Nan Xu, et.al.},
   title     = {YAYI 2: Multilingual Open Source Large Language Models},
-  journal   = {arXiv preprint arXiv},
+  journal   = {arXiv preprint arXiv:2312.14862},
+  url       = {https://arxiv.org/abs/2312.14862},
   year      = {2023}
 }
 ```
