@@ -18,8 +18,9 @@ English | [中文](./README.md)
 ## Introduction
 YAYI 2 is the new generation of open-source large language models launched by Wenge Technology. It has been pretrained for 2.65 trillion tokens of multilingual data with high quality. The base model is aligned with human values through supervised fine-tuning with millions of instructions and reinforcement learning from human feedback (RLHF).
 
-We opensource the pre-trained language model in this release, namely **YAYI2-30B**. By open-sourcing the YAYI 2 model, we aim to contribute to the development of the Chinese pre-trained large language model open-source community. Through open-source, we aspire to collaborate with every partner in building the YAYI large language model ecosystem. Stay tuned for more technical details in our upcoming technical report! 🔥
+We opensource the pre-trained language model in this release, namely **YAYI2-30B**. By open-sourcing the YAYI 2 model, we aim to contribute to the development of the Chinese pre-trained large language model open-source community. Through open-source, we aspire to collaborate with every partner in building the YAYI large language model ecosystem. 
 
+For more technical details, please read our technical report 🔥[YAYI 2: Multilingual Open-Source Large Language Models](https://arxiv.org/abs/2312.14862).
 
 ## Model download
 
