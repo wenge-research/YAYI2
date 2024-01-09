@@ -352,8 +352,7 @@ The following figure shows the final pre-training loss of YAYI2-30B.
 
 
 ### Open Source License
-The code in this project is open-sourced under the [Apache-2.0](LICENSE) license. The use of YaYi series model weights and data must adhere to the [YAYI 2 Community License](COMMUNITY_LICENSE). If you intend to use the YAYI 2 series models or their derivatives for commercial purposes, please submit your commercial license application and registration information to yayi@wenge.com, following the [YAYI 2 Commercial License](COMMERCIAL_LICENSE). Upon approval, YAYI will grant you a commercial copyright license, subject to the commercial license restrictions outlined in the agreement.
-
+The code in this project is open-sourced under the [Apache-2.0](LICENSE) license. The use of YaYi series model weights and data must adhere to the [YAYI 2 Community License](COMMUNITY_LICENSE). If you intend to use the YAYI 2 series models or their derivatives for commercial purposes, please complete the [YAYI 2 Model Commercial Registration Information](REGISTRATION_INFORMATION_EN) and send it to yayi@wenge.com. After receiving the email, we will conduct an audit within 3 working days. Once the audit is passed, you will receive a commercial license. Please strictly comply with the relevant content of the [YAYI 2 Model Commercial License Agreement](COMMERCIAL_LICENSE) during the use process. Thank you for your cooperation!
 
 
 ### Citation
