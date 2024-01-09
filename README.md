@@ -382,8 +382,7 @@ YAYI 2 模型的 loss 曲线见下图：
 
 ### 开源协议
 
-本项目中的代码依照 [Apache-2.0](LICENSE) 协议开源，社区使用 YAYI 2 模型和数据需要遵循[《雅意YAYI 2 模型社区许可协议》](COMMUNITY_LICENSE)。若您需要将雅意 YAYI 2系列模型或其衍生品用作商业用途，请根据[《雅意 YAYI 2 模型商用许可协议》](COMMERCIAL_LICENSE)将商用许可申请登记信息发送至指定邮箱yayi@wenge.com。审核通过后，雅意将授予您商用版权许可，请遵循协议中的商业许可限制。
-
+本项目中的代码依照 [Apache-2.0](LICENSE) 协议开源，社区使用 YAYI 2 模型和数据需要遵循[《雅意 YAYI 2 模型社区许可协议》](COMMUNITY_LICENSE)。若您需要将雅意 YAYI 2系列模型或其衍生品用作商业用途，请完整填写[《雅意 YAYI 2 模型商用登记信息》](REGISTRATION_INFORMATION)，并发送至 yayi@wenge.com，收到邮件后我们将在3个工作日进行审核，通过审核后您将收到商用许可证，请您在使用过程中严格遵守[《雅意 YAYI 2 模型商用许可协议》](COMMERCIAL_LICENSE)的相关内容，感谢您的配合！
 
 ### 引用
 如果您在工作中使用了我们的模型，请引用我们的论文：
