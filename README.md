@@ -37,6 +37,8 @@
   - [引用](#引用) -->
 
 ## 更新
+[2024.03.28] 所有模型和数据上传魔搭社区。
+
 [2023.12.22] 我们发布了技术报告🔥🔥🔥[YAYI 2: Multilingual Open-Source Large Language Models](https://arxiv.org/abs/2312.14862)。
 
 
@@ -50,15 +52,15 @@ YAYI 2 是中科闻歌研发的**新一代开源大语言模型**，包括 Base 
 
 ## 数据集地址
 
-| 数据集名称  | 大小  | 🤗 HF模型标识 | 下载地址   |
-|:----------|:----------:|:----------:|----------:|
-| YAYI2 Pretrain Data | 500G    | wenge-research/yayi2_pretrain_data| [数据集下载](https://huggingface.co/datasets/wenge-research/yayi2_pretrain_data)|
+| 数据集名称  | 大小  | 🤗 HF模型标识 | 下载地址   |  魔搭模型标识 | 下载地址   | 
+|:----------|:----------:|:----------:|----------:|:----------:|----------:|
+| YAYI2 Pretrain Data | 500G    | wenge-research/yayi2_pretrain_data| [数据集下载](https://huggingface.co/datasets/wenge-research/yayi2_pretrain_data)|wenge-research/yayi2_pretrain_data| [数据集下载](https://modelscope.cn/datasets/wenge-research/yayi2_pretrain_data)|
 
 ## 模型地址
 
-| 模型名称  | 上下文长度  | 🤗 HF模型标识 | 下载地址   |
-|:----------|:----------:|:----------:|----------:|
-| YAYI2-30B | 4096    | wenge-research/yayi2-30b| [模型下载](https://huggingface.co/wenge-research/yayi2-30b)|
+| 模型名称  | 上下文长度  | 🤗 HF模型标识 | 下载地址   |  魔搭模型标识 | 下载地址   | 
+|:----------|:----------:|:----------:|----------:|:----------:|----------:|
+| YAYI2-30B | 4096    | wenge-research/yayi2-30b| [模型下载](https://huggingface.co/wenge-research/yayi2-30b)|wenge-research/yayi2-30b| [模型下载](https://modelscope.cn/models/wenge-research/yayi2-30b)|
 | YAYI2-30B-Chat | 4096    | wenge-research/yayi2-30b-chat| Comming soon... |
 
 ## 评测结果
